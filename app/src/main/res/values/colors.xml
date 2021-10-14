@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#32322C</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Theme NoActionBar -->
+    <color name="colorPrimary">#39A0ED</color>
+    <color name="colorPrimaryDark">#4C6085</color>
+    <color name="colorAccent">#36F1CD</color>
+    <color name="colorGray">#BDC3C7</color>
+    <color name="green_light">#8BC34A</color>
+    <color name="red_light">#F44336</color>
+</resources>

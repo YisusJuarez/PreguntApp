@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreguntApp</string>
+    <string name="NameApp">PreguntApp</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="EscribirNombre">Por favor escribe tu nombre</string>
+    <string name="ayudaNombre">Name</string>
+    <string name="ButtonComenzar">Comenzar</string>
+    <string name="btn_submit">Enviar</string>
+</resources>
